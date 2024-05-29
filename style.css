@@ -1,0 +1,21 @@
+.hero {
+  background-image: url("./e5c17ee1-ffb1-415d-9822-40614394a1af.jpeg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 4rem;
+}
+.hero p {
+  font-size: 1.5rem;
+}
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+}
